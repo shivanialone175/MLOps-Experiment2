@@ -9,4 +9,5 @@ model.fit(X,y)
 prediction=model.predict([[6]])
 print("Study hours:6")
 print("Predict marks:",prediction[0])
+print("Running experimental model")
     
